@@ -1,0 +1,72 @@
+{
+  "app.text": [
+    {
+      "type": 0,
+      "value": "Edit "
+    },
+    {
+      "type": 8,
+      "value": "code",
+      "children": [
+        {
+          "type": 0,
+          "value": "src/App.js"
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "value": " and save to reload."
+    },
+    {
+      "type": 0,
+      "value": "<br/>"
+    },
+    {
+      "type": 0,
+      "value": "Now with "
+    },
+    {
+      "type": 1,
+      "value": "what"
+    },
+    {
+      "type": 0,
+      "value": "!"
+    }
+  ],
+  "app.learn-react-link": [
+    {
+      "type": 0,
+      "value": "Learn React"
+    }
+  ],
+  "e3d40": [
+    {
+      "type": 0,
+      "value": "New Password"
+    }
+  ],
+  "explicit-id": [
+    {
+      "type": 0,
+      "value": "Confirm Password"
+    }
+  ],
+  "76f73": [
+    {
+      "type": 0,
+      "value": "Control Panel"
+    }
+  ],
+  "0b7cf": [
+    {
+      "type": 0,
+      "value": "Delete user "
+    },
+    {
+      "type": 1,
+      "value": "name"
+    }
+  ]
+}

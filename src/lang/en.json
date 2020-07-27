@@ -1,0 +1,26 @@
+{
+  "app.text": {
+    "defaultMessage": "Edit <code>src/App.js</code> and save to reload.<br/>Now with {what}!",
+    "description": "Welcome header on app main page"
+  },
+  "app.learn-react-link": {
+    "defaultMessage": "Learn React",
+    "description": "Link on react page"
+  },
+  "e3d40": {
+    "defaultMessage": "New Password",
+    "description": "placeholder text"
+  },
+  "explicit-id": {
+    "defaultMessage": "Confirm Password",
+    "description": "placeholder text"
+  },
+  "76f73": {
+    "defaultMessage": "Control Panel",
+    "description": "title of control panel section"
+  },
+  "0b7cf": {
+    "defaultMessage": "Delete user {name}",
+    "description": "Delete button"
+  }
+}
